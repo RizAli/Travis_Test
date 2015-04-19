@@ -17,6 +17,6 @@ script: bundle exec rspec spec
 
 
 Step 2
-Use webhook turned the repository on 
+On github using webhook turned the repository on 
 
 
